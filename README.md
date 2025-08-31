@@ -22,4 +22,4 @@ This project was created to practice structuring webpages and styling with CSS.
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeghPatel-007/amazon.git
+   git clone https://github.com/MeghPatel-007/Amazon.git
